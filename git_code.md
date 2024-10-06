@@ -250,12 +250,19 @@ Dieser Befehl holt alle Änderungen aus dem entfernten Repository origin in Ihr 
 ### Zusammenfassung
 
 git push: Sendet lokale Änderungen an ein entferntes Repository.
+
 git pull: Holt Änderungen aus einem entfernten Repository und integriert sie in Ihr lokales Repository.
+
 origin: Der Standardname für das entfernte Repository.
+
 master: Der Standardname für den Haupt-Branch.
+
 git status: Zeigt den Status Ihres lokalen Repositories an.
+
 git log: Zeigt die Commit-Historie an.
+
 git merge: Führt zwei Branches zusammen.
+
 git fetch: Holt Änderungen von einem entfernten Repository, integriert sie jedoch nicht.
 
 
