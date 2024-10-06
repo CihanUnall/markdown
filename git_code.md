@@ -87,7 +87,17 @@ Auf einen existierenden Branch (engl. für Abzweigung) wechseln, können wir mit
 
 ---
 
-     ls -la
+### 8. git version
+
+Es zeigt Ihnen die Git-Version.
+
+      git --version
+
+---
+
+### 9. git Ordnerkontrolle
+
+      ls -la
 
 Versteckte Dateien/ Ordner im repository anzeigen, wenn wir den Ordner .git sehen, ist es die Bestätigung das git (Versionskontrolle) im Repo initialisiert wurde  
 
